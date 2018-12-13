@@ -26,7 +26,7 @@ It is quit simple, just follow the Documentation on the Relativty WIKI, and use 
 Arduino UNO
 <h1 align="center">
   <br>
-  <a href="https://relativty.net"><img src="https://github.com/AdmiraalHugo/relativty-UNO/blob/master/img/Arduino%20UNO%20connections.jpg" width="75%"></a>
+  <a href="https://relativty.net"><img src="https://github.com/AdmiraalHugo/relativty-cross-platform/blob/master/img/Arduino%20UNO%20connections.jpg" width="75%"></a>
 </h1>
 
 Arduino NANO
