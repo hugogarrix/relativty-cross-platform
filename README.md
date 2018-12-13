@@ -10,11 +10,13 @@
 
 # Getting Started ⚡️
 
-## Arduino UNO / NANO
+## Currently compitable;
+* Arduino UNO
+* Arduino NANO
 
 ### What components ?
 First you will need the following components:
-* Arduino UNO / NANO
+* <The arduino board you want to use>
 * GY-521 MPU-6050
 * 5.5 inch 2560*1440 2K LCD Screen HDMI to MIPI, up to 100€ on AliExpress
 * Fresnel lens Focal Length 80mm
