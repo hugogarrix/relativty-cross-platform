@@ -38,5 +38,3 @@ Arduino NANO
 </h1>
 
 # ENJOY!
-
-You can support me on here; https://www.relativty.net/campaigns/relativty-cross-platform/
